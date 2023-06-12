@@ -97,4 +97,4 @@ The main objective is that to perform EDA on the given dataset and draw useful c
 
 (11)most of the busiest months are July and August
 
-(12)City hotel has maximum booking from the month April to September but after that there is fall down in booking Now for the Resort hotel March-May,June-August and November-January is busiest month
+(12)City hotel has maximum booking from the month April to September but after that there is fall down in booking Now for the Resort hotel March-May,June-August and November-January is busiest month.
